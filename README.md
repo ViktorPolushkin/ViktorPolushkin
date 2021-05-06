@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is **Viktor Polushkin** and I am from Russia Federation.
+My name is **Viktor Polushkin**.
 
 <!--
 **ViktorPolushkin/ViktorPolushkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
